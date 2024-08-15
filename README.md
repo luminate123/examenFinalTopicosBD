@@ -5,3 +5,18 @@ Este es un proyecto basico para el examen final de topicos de base de datos, se 
 
 https://github.com/user-attachments/assets/b182b36d-2588-4773-a886-b0677dc4e734
 
+
+
+![ClientesController php](https://github.com/user-attachments/assets/53322909-911d-4035-a94b-97741cbd370f)
+
+
+![views](https://github.com/user-attachments/assets/b1be0e8f-b0b5-4662-8ee2-fa39b6a9f539)
+
+
+![model](https://github.com/user-attachments/assets/26a3d5a8-d335-4409-96b1-ab2e8714c25a)
+
+
+![web php](https://github.com/user-attachments/assets/0284367b-1883-45c1-9753-a59c278a52c6)
+
+
+
